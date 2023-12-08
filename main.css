@@ -68,6 +68,6 @@ input.warning{
     background-color: darksalmon;
 }
 
-#remaining-chars.warning{
+#remaining-char.warning{
     color: orangered
 }
